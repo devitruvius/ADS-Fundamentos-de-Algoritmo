@@ -22,7 +22,7 @@ Aprimorar a compreensão dos fundamentos de algoritmos por meio da linguagem de 
 
 ## 2. Índice
 ### 2.1. Atividade 1: Pseudocódigo
-   - [Repositório da Atividade 1](link-para-o-repositorio-atividade-1)
+   - [Repositório da Atividade 1]([link-para-o-repositorio-atividade-1](https://github.com/devitruvius/ADS-Pseudocodigos-Atividades))
 
 ### 2.2. Atividade 2: Aplicando Conceitos das Estruturas de Condição em Python
    - [Repositório da Atividade 2](link-para-o-repositorio-atividade-2)
