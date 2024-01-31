@@ -1,4 +1,4 @@
-Repositório de Atividades
+#Repositório de Atividades
 
 ## Objetivo
 Aprimorar a compreensão dos fundamentos de algoritmos por meio da linguagem de programação Python. Conceitos de estruturas de condição, como `if`, `else` e `elif`, foram explorados para aprimorar a capacidade de tomada de decisões em diferentes situações-problema. Além disso, foi abordado o uso de estruturas de repetição, como `for` e `while`, para desenvolver habilidades em iterações controladas. A ênfase é na construção de uma lógica de programação sólida, utilizando situações-problema e códigos práticos que proporcionam uma compreensão mais profunda dos conceitos fundamentais de algoritmos.
