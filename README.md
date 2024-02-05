@@ -27,6 +27,6 @@ Aprimorar a compreensão dos fundamentos de algoritmos por meio da linguagem de 
 ### 2.2. Atividade 2: Aplicando Conceitos das Estruturas de Condição em Python
    - [Repositório da Lista de Atividades II](https://github.com/devitruvius/ADS-Python-Condicao)
 
-### 2.3. Atividade 2: Aplicando Conceitos das Estruturas de Repetição em Python
+### 2.3. Atividade 3: Aplicando Conceitos das Estruturas de Repetição em Python
    - [Repositório da Lista de Atividades III](https://github.com/devitruvius/ADS-Python-Repeticao/tree/main)
 
