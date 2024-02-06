@@ -30,5 +30,5 @@ Aprimorar a compreensão dos fundamentos de algoritmos por meio da linguagem de 
 ### 2.3. Atividade 3: Aplicando Conceitos das Estruturas de Repetição em Python
    - [Repositório da Lista de Atividades III](https://github.com/devitruvius/ADS-Python-Repeticao/tree/main)
 
-### 2.4. Atividade 4: Aplicando Conceitos das Listas e Coleções em Python
+### 2.4. Atividade 4: Aplicando Conceitos das Listas em Python
    - [Repositório da Lista de Atividades IV](https://github.com/devitruvius/ADS-Python-Listas/tree/main)
