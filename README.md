@@ -1,7 +1,7 @@
 # Repositório de Atividades
 
 ## Objetivo
-Este repositório oferece uma demonstração prática e robusta dos conceitos fundamentais de programação em Python, desenvolvidos na disciplina de Fundamentos de Algoritmos do curso de Análise e Desenvolvimento de Sistemas (ADS) pela Universidade Federal do Cariri (UFCA). Explora o uso de estruturas de condição (`if`, `else`, `elif`) e estruturas de repetição (`for`, `while`) para tomada de decisões e iterações controladas, respectivamente. Também inclui atividades focadas em estruturas de listas, fortalecendo a compreensão dos fundamentos de algoritmos e aprimorando a lógica de programação. Disponibiliza exemplos práticos e códigos-fonte para avaliação do conhecimento e experiência adquiridos durante a disciplina.
+Este repositório oferece uma demonstração prática e robusta dos conceitos fundamentais de programação em Python, desenvolvidos na disciplina de Fundamentos de Algoritmos do curso de Análise e Desenvolvimento de Sistemas (ADS) pela Universidade Federal do Cariri (UFCA). Explora o uso de estruturas de condição (`if`, `else`, `elif`) e estruturas de repetição (`for`, `while`) para tomada de decisões e iterações controladas, respectivamente. Também inclui atividades focadas em estruturas de listas, fortalecendo a compreensão dos fundamentos de algoritmos e aprimorando a lógica de programação. Foram disponibilizados exemplos práticos e códigos-fonte para avaliação do conhecimento e experiência adquiridos durante a disciplina.
 
 ## 1. Conceitos explorados em Python
 ### 1.1 Estruturas de Condição
