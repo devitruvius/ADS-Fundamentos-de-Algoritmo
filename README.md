@@ -18,19 +18,19 @@ Este repositório oferece uma demonstração prática e robusta dos conceitos fu
 O repositório contém cinco atividades que visam aprofundar o aprendizado dos conceitos explorados:
 
 * **Atividade 1: Pseudocódigo**
-   - [Repositório da Lista de Atividades I](https://github.com/devitruvius/ADS-Pseudocodigos-Atividades)
+   - [Repositório da Lista de Atividades I](https://github.com/devitruvius/ADS-pseudocodigos-atividades)
 
 * **Atividade 2: Aplicando Conceitos das Estruturas de Condição em Python**
-   - [Repositório da Lista de Atividades II](https://github.com/devitruvius/ADS-Python-Conditional-Statement)
+   - [Repositório da Lista de Atividades II](https://github.com/devitruvius/ADS-python-conditional-statement)
 
 * **Atividade 3: Aplicando Conceitos das Estruturas de Repetição em Python**
-   - [Repositório da Lista de Atividades III](https://github.com/devitruvius/ADS-Python-Loop-Statement)
+   - [Repositório da Lista de Atividades III](https://github.com/devitruvius/ADS-python-loop-statement)
 
 * **Atividade 4: Aplicando Conceitos das Estruturas de Listas em Python**
-   - [Repositório da Lista de Atividades IV](https://github.com/devitruvius/ADS-Python-Lists)
+   - [Repositório da Lista de Atividades IV](https://github.com/devitruvius/ADS-python-lists)
 
 * **Atividade 5: Aplicando Conceitos das Estruturas de Funções em Python**
-   - [Repositório da Lista de Atividades V](https://github.com/devitruvius/ADS-Python-Functions)
+   - [Repositório da Lista de Atividades V](https://github.com/devitruvius/ADS-python-functions)
  
 ## Recursos Adicionais
 
