@@ -36,12 +36,3 @@ O repositório contém cinco atividades que visam aprofundar o aprendizado dos c
 
 * **Exemplos e Códigos Práticos**: Cada atividade contém exemplos práticos e códigos-fonte para análise e compreensão.
 * **Documentação Oficial do Python**: Consulte a documentação oficial do Python para obter mais informações sobre a linguagem: https://docs.python.org/3/
-
-## Contribuições
-
-Sugestões e contribuições para o aprimoramento do repositório são bem-vindas!
-
-## Observações
-
-* Este repositório é um material complementar à disciplina de Fundamentos de Algoritmos do curso de ADS da UFCA.
-* O conteúdo apresentado é de caráter didático e pode ser adaptado para outros fins.
