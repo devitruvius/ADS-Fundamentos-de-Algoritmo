@@ -18,21 +18,26 @@ Este repositório oferece uma demonstração prática e robusta dos conceitos fu
 O repositório contém cinco atividades que visam aprofundar o aprendizado dos conceitos explorados:
 
 * **Atividade 1: Pseudocódigo**
-   - [Repositório da Lista de Atividades I](https://github.com/devitruvius/ADS-pseudocodigos-atividades)
+   - [Repositório da Lista de Atividades I](https://github.com/devitruvius/FA-pseudocodigos-atividades)
 
 * **Atividade 2: Aplicando Conceitos das Estruturas de Condição em Python**
-   - [Repositório da Lista de Atividades II](https://github.com/devitruvius/ADS-python-conditional-statement)
+   - [Repositório da Lista de Atividades II](https://github.com/devitruvius/FA-python-conditional-statement)
 
 * **Atividade 3: Aplicando Conceitos das Estruturas de Repetição em Python**
-   - [Repositório da Lista de Atividades III](https://github.com/devitruvius/ADS-python-loop-statement)
+   - [Repositório da Lista de Atividades III](https://github.com/devitruvius/FA-python-loop-statement)
 
 * **Atividade 4: Aplicando Conceitos das Estruturas de Listas em Python**
-   - [Repositório da Lista de Atividades IV](https://github.com/devitruvius/ADS-python-lists)
+   - [Repositório da Lista de Atividades IV](https://github.com/devitruvius/FA-python-lists)
 
 * **Atividade 5: Aplicando Conceitos das Estruturas de Funções em Python**
-   - [Repositório da Lista de Atividades V](https://github.com/devitruvius/ADS-python-functions)
- 
-## Recursos Adicionais
+   - [Repositório da Lista de Atividades V](https://github.com/devitruvius/FA-python-functions)
 
-* **Exemplos e Códigos Práticos**: Cada atividade contém exemplos práticos e códigos-fonte para análise e compreensão.
-* **Documentação Oficial do Python**: Consulte a documentação oficial do Python para obter mais informações sobre a linguagem: https://docs.python.org/3/
+## Repositório Principal
+
+Este é o repositório principal que contém todas as atividades relacionadas ao curso de Análise e Desenvolvimento de Sistemas (ADS) da UFCA. Você pode encontrar todos os materiais relacionados ao curso neste repositório central:
+* [Repositório de Atividades - Análise e Desenvolvimento de Sistemas (UFCA)](https://github.com/devitruvius/college-repository)
+
+ 
+## Licença
+
+Este repositório está licenciado sob a licença [MIT](https://choosealicense.com/licenses/mit/).
