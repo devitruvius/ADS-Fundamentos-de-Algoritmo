@@ -12,7 +12,6 @@ Este repositório oferece uma demonstração prática e robusta dos conceitos fu
 
 * **Lógica de Programação**: Desenvolvimento da capacidade de analisar e resolver problemas de forma lógica e estruturada.
 
-
 ## Atividades
 
 O repositório contém cinco atividades que visam aprofundar o aprendizado dos conceitos explorados:
