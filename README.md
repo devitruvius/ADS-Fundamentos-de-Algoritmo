@@ -19,7 +19,7 @@ Este repositório oferece uma demonstração prática e robusta dos conceitos fu
 O repositório contém cinco atividades que visam aprofundar o aprendizado dos conceitos explorados:
 
 * **Atividade 1: Pseudocódigo**
-   - [Repositório da Lista de Atividades I](https://github.com/devitruvius/FA-pseudocodigos-atividades)
+   - [Repositório da Lista de Atividades I](https://github.com/devitruvius/FA-pseudocode-activities)
 
 * **Atividade 2: Aplicando Conceitos das Estruturas de Condição em Python**
    - [Repositório da Lista de Atividades II](https://github.com/devitruvius/FA-python-conditional-statement)
