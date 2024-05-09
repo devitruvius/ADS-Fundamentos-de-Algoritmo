@@ -1,3 +1,5 @@
+# Disciplina: Fundamentos de Algoritmos
+
 ## Objetivo
 Este repositório oferece uma demonstração prática e robusta dos conceitos fundamentais de programação em Python, desenvolvidos na disciplina de Fundamentos de Algoritmos do curso de Análise e Desenvolvimento de Sistemas (ADS) pela Universidade Federal do Cariri (UFCA).
 
