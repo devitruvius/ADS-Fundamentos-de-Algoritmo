@@ -3,6 +3,9 @@
 ## Objetivo
 Este repositório oferece uma demonstração prática e robusta dos conceitos fundamentais de programação em Python, desenvolvidos na disciplina de Fundamentos de Algoritmos do curso de Análise e Desenvolvimento de Sistemas (ADS) pela Universidade Federal do Cariri (UFCA).
 
+## Ementa
+Introdução a lógica de programação. Algoritmos. Resolução de problemas. Fluxogramas. Conceitos básicos de linguagens de programação. Entrada e saída. Tipos básicos de dados. Operadores e expressões. Estruturas condicionais. Estruturas de repetição. Funções. Noções de estruturas de dados: vetores e matrizes. Técnicas básicas de boa programação. Tratamento de erros.
+
 ## Conceitos Explorados
 * **Estruturas de Condição (`if`, `else` e `elif`)**: Tomada de decisões com base em condições específicas.
 
