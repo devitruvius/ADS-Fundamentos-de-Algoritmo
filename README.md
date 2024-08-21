@@ -37,9 +37,7 @@ O repositório contém cinco atividades que visam aprofundar o aprendizado dos c
    - [Repositório da Lista de Atividades V](https://github.com/devitruvius/FA-python-functions)
 
 ## Repositório Principal
-
-Este é o repositório principal que contém todas as atividades relacionadas ao curso de Análise e Desenvolvimento de Sistemas (ADS) da UFCA. Você pode encontrar todos os materiais relacionados ao curso neste repositório central:
-* [Repositório de Atividades - Análise e Desenvolvimento de Sistemas (UFCA)](https://github.com/devitruvius/college-repository)
+* [Voltar](https://github.com/devitruvius/college-repository)
 
  
 ## Licença
